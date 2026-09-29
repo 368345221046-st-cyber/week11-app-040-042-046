@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ข้อมูลลับ — ห้ามขึ้น GitHub
+kaggle.json
+
+# ไฟล์ชั่วคราว
+*.tmp
+*.bak
+*~
+
+# ระบบปฏิบัติการ / โปรแกรมแก้ไข
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
